@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: Security vulnerability
+    url: mailto:info@craftin.lv
+    about: Please report security or privacy vulnerabilities privately by email.
+
+  - name: Meta Pixel Bridge documentation
+    url: https://github.com/QvarcY/prestashop-meta-pixel-bridge
+    about: Read the project documentation before opening an issue.
+
+  - name: Support the project
+    url: https://buymeacoffee.com/craftin
+    about: Support continued development of Meta Pixel Bridge.

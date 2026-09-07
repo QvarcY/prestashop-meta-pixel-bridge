@@ -1,0 +1,22 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+
+# Release archives
+*.zip
+
+# PHP / tooling
+vendor/
+composer.lock
+
+# Local cache / generated files
+cache/
+var/

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+  <name>metapixelbridge</name>
+  <displayName><![CDATA[Meta Pixel Bridge]]></displayName>
+  <version><![CDATA[1.0.1]]></version>
+  <description><![CDATA[Privacy-aware Meta Pixel event tracking for PrestaShop without a SaaS subscription.]]></description>
+  <author><![CDATA[CraftIN / QvarcY (kas.id.lv)]]></author>
+  <tab><![CDATA[advertising_marketing]]></tab>
+  <is_configurable>1</is_configurable>
+  <need_instance>0</need_instance>
+</module>
